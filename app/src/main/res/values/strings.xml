@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CntEditor</string>
+    <string name="delete_all">Delete All</string>
+</resources>
